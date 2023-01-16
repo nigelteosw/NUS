@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "ba90ea72ac936e5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "24fe9017f3b20c16",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lecture/Chapter 4.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d665005af14c34f",
+    "type": "split",
+    "children": [
+      {
+        "id": "11825201ffc4578f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ce2f42cd043a9a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae11bdd5ec78e026",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c14c02c796e6354",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65dec5907e71b03f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dffa29fd8840b200",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9ae7d93b16ee396",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lecture/Chapter 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "962fd94b8b633e4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lecture/Chapter 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77e146c0afb181a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "33caab22868f2809",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lecture/Chapter 4.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "24fe9017f3b20c16",
+  "lastOpenFiles": [
+    "Lecture/Chapter 3.md",
+    "Tutorials/Tutorial 4.md",
+    "Tutorials/Tutorial 3.md",
+    "Tutorials/Tutorial 2.md",
+    "Lecture/Chapter 2.md",
+    "Lecture/Chapter 1.md",
+    "Tutorials/Tutorial 1.md",
+    "Pasted image 20220814141641.png",
+    "Images/Pasted image 20220814141656.png",
+    "Images/Pasted image 20220814141420.png"
+  ]
+}

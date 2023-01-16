@@ -1,0 +1,2 @@
+## How is intelligence produced in Singapore? How is intelligence produced in Singapore? What are its mechanics (e.g. key institutions) and operations (e.g. key policies)? What are the equalities and inequalities produced by Singapore’s emphasis on intelligence and ‘smartness’? How has this changed in the last twenty years? How are individual lives and careers shaped by how intelligence is understood? How does this compare with other countries in the region (e.g. Hong Kong) and globally (e.g. the United States).
+

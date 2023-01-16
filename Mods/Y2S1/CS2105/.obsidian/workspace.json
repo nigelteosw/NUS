@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "f981f222e4b10e3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "67207b923bbdb8d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f66b667781fdf16c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/Lecture 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68691e4acde657bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorial/Tutorial 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ef0077b6e9fdda1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/Lecture 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7201edc036299fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture/Lecture 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6628ceb322924195",
+    "type": "split",
+    "children": [
+      {
+        "id": "25defa85ff1ebb36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52c04190cac8e3f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c82f1ca11d69644d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4980e802e60f86b0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 177.5
+  },
+  "right": {
+    "id": "3ca678a4a4f386f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dda1a438cc30ef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32ba1fe1b2947d79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tutorial/Tutorial 9.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1cfc0151a1efbc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tutorial/Tutorial 9.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4dc81fbf2cfe4e63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "151dd6cd6649f710",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tutorial/Tutorial 9.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "68691e4acde657bd",
+  "lastOpenFiles": [
+    "Tutorial/Tutorial 8.md",
+    "Tutorial/Tutorial 9.md",
+    "Lecture/Lecture 11.md",
+    "Lecture/Lecture 9.md",
+    "Tutorial/Tutorial 7.md",
+    "Lecture/Lecture 10.md",
+    "Lecture/Lecture 8.md",
+    "Lecture/Lecture 7.md",
+    "Tutorial/Tutorial 6.md",
+    "Tutorial/Tutorial 5.md"
+  ]
+}

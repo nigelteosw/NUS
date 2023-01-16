@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "4cb132c560f5210d",
+    "type": "split",
+    "children": [
+      {
+        "id": "74c7d7246f82a27f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b40fdafec8c4192",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c611628d68662a16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Readings/Week 3/Healthy Competition and Unsound Comparison.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ebe23ccca944e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essay Outline/Intelligence Article.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "209bad30d51bd602",
+    "type": "split",
+    "children": [
+      {
+        "id": "f234e257cdc0bfd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9102fbeaac33798e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e449ecf22c12db45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a0a7391ad1f45b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "48f7e83d36d4f270",
+    "type": "split",
+    "children": [
+      {
+        "id": "905adca1dd430a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "757b9ecc0b189bb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5e33a4558eef838",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dc4a72f061dfb51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b66029983201557",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1b40fdafec8c4192",
+  "lastOpenFiles": [
+    "Notes/Weekly Notes/Week 11 Notes.md",
+    "Notes/Weekly Notes/Week 10 Notes.md",
+    "Notes/Weekly Notes/Week 8 Notes.md",
+    "Notes/Weekly Notes/Week 12 Notes.md",
+    "Notes/Weekly Notes/Week 13 Notes.md",
+    "Notes/Weekly Notes/Week 3 Notes.md",
+    "Notes/Talks/Intelligence and Labour Flow in Singapore.md",
+    "Notes/Talks/Intelligence, Merit and the Reproduction of Inequality in Singapore.md",
+    "Notes/Readings/Week 11/This is What Inequality Looks Like (Chapter 6).md",
+    "Notes/Readings/Week 11/Youth mobilities in elite schools.md"
+  ]
+}

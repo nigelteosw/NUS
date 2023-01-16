@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "068aac96c3c41fc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8538cd5398d3c98",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tutorials/Tutorial 7.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2ec11e52198de37",
+    "type": "split",
+    "children": [
+      {
+        "id": "47810e5b6b0916a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71cf43164225491e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8992d63e944d202f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Inst",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "feba0346c8af3c27",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 145.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d4c8d31e40101013",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f00cdba50ef164f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4d38fb943a63c45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tutorials/Tutorial 7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1d81e773e2dddbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tutorials/Tutorial 7.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c19f06a32912046c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef5dc7c3cc6efe36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tutorials/Tutorial 7.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c8538cd5398d3c98",
+  "lastOpenFiles": [
+    "Tutorials/Tutorial 6.md",
+    "Tutorials/Tutorial 7.md",
+    "Lectures/Lecture 17.md",
+    "Lectures/Lecture 3.md",
+    "Lectures/Lecture 2.md",
+    "Notes/IEEE Standard 754 Floating-Point Representation.md",
+    "Lectures/Lecture 5.md",
+    "Lectures/Lecture 4.md",
+    "Lectures/Lecture 7.md",
+    "Lectures/Lecture 13.md"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "4cb132c560f5210d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b0e7a157ccd2856",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Weekly Notes/Week 7 Notes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "209bad30d51bd602",
+    "type": "split",
+    "children": [
+      {
+        "id": "f234e257cdc0bfd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9102fbeaac33798e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e449ecf22c12db45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a0a7391ad1f45b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "48f7e83d36d4f270",
+    "type": "split",
+    "children": [
+      {
+        "id": "905adca1dd430a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "757b9ecc0b189bb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Weekly Notes/Week 7 Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5e33a4558eef838",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Weekly Notes/Week 7 Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dc4a72f061dfb51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b66029983201557",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Weekly Notes/Week 7 Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6b0e7a157ccd2856",
+  "lastOpenFiles": [
+    "Notes/Weekly Notes/Week 8 Notes.md",
+    "Notes/Weekly Notes/Week 9 Notes.md",
+    "Klara and the Sun/Up to pg 180.md",
+    "Notes/Weekly Notes/Week 7 Notes.md",
+    "Klara and the Sun/Up to pg 137.md",
+    "Notes/Weekly Notes/Week 5 Notes.md",
+    "Notes/Weekly Notes/Week 4 Notes.md",
+    "Notes/Weekly Notes/Week 3 Notes.md",
+    "Notes/Weekly Notes/Week 2 Notes.md",
+    "Klara and the Sun/Chapter 2.md"
+  ]
+}
