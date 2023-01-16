@@ -1,0 +1,7 @@
+Ethnography is a qualitative research method used in the social sciences and in humanities. It is a way of studying and understanding the culture and social behaviors of a group of people, typically within a specific context or community. Ethnographic research is often conducted by immersing the researcher in the daily lives of the people being studied, through techniques such as observation, interviews, and participant-observation.
+
+The goal of ethnography is to understand the customs, beliefs, and practices of a particular group of people from their own perspective, rather than from the researcher's own perspective. This approach allows the researcher to gain a deeper understanding of the culture and social dynamics of the group being studied.
+
+Ethnography is used in a wide range of fields, including anthropology, sociology, cultural studies, and education. It is also used in business and marketing research to better understand consumer behavior and culture.
+
+Ethnography can also be used as a tool for design research, where ethnographic data is used to inform the design process in order to create products, services or environments that are better suited to the people for whom they are intended.

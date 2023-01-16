@@ -7,7 +7,7 @@
 - Body modifications as marks of our identity, writing ones life on skin
 
 
-## [[Skin]] is
+### [[Skin]] is
 - Visibile to oneself and others
 - The "ID card" we present to the world
 - It is there that we see force of society on us, through the way we think and act on our skin

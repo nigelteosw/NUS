@@ -1,4 +1,4 @@
-# Jablonski Chapter 1 (Skin Laid Bare)
+# Skin Laid Bare
 
 ## Key Ideas:
 - Skin provides information, sensing
