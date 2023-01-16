@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Concepts/Skin.md",
+                "file": "Mods/Y2S2/UTC2117 Skins/Readings/Jablonski Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Concepts/Skin.md",
+                "file": "Mods/Y2S2/UTC2117 Skins/Readings/Jablonski Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Concepts/Skin.md",
+                "file": "Mods/Y2S2/UTC2117 Skins/Readings/Jablonski Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Concepts/Skin.md"
+                "file": "Mods/Y2S2/UTC2117 Skins/Readings/Jablonski Chapter 1.md"
               }
             }
           },
@@ -195,9 +195,9 @@
   },
   "active": "0a1012af9a060ea0",
   "lastOpenFiles": [
-    "Mods/Y2S2/UTC2117 Skins/Readings/Jablonski Chapter 1.md",
     "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 1.md",
     "Mods/Y2S2/UTC2117 Skins/Concepts/Skin.md",
+    "Mods/Y2S2/UTC2117 Skins/Readings/Jablonski Chapter 1.md",
     "Mods/Y2S2/CS2102/Lecture 2.md",
     "Mods/Y2S2/CS2109S/Lecture 1.md",
     "HacknRoll 2023/Intro To Machine Learning.md",

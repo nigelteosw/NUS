@@ -9,3 +9,5 @@
 - Made up for different layers with physical and chemical properties
 - Shields us from environmental oxidants, heat and UV radiation
 - Skin can become thicker to be a better protector
+- Contains hair
+	- 
