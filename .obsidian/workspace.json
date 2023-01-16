@@ -11,12 +11,8 @@
             "id": "a0df0bd3b81e40c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,9 +162,9 @@
   },
   "active": "a0df0bd3b81e40c6",
   "lastOpenFiles": [
-    "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 1.md",
-    "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 2.md",
     "Mods/Y2S2/UTC2117 Skins/Concepts/Ethnography.md",
+    "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 2.md",
+    "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 1.md",
     "Mods/Y2S2/UTC2117 Skins/Concepts/Skin.md",
     "Mods/Y2S2/UTC2117 Skins/Readings/Benthien Chapter 3.md",
     "Mods/Y2S2/UTC2117 Skins/Readings/Jablonski Chapter 1.md",
