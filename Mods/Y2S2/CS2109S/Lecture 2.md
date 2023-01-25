@@ -1,2 +1,0 @@
-# Solving Problems by Searching
-
