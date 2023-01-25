@@ -8,6 +8,7 @@
 - Static 
 - Discrete
 
+
 ### 2. Determine the PEAS (Performance measure, Environment, Actuators, Sensors) for the SIRI function of iPhones
 #### Performance Measure
 1. Speed
@@ -24,6 +25,7 @@
 1. Audio Input (microphone)
 2. Input from keyboard
 
+
 ### 3. Tower of Hanoi
 a) A state is any configuration of disks on the peg
 b) The invariant is that all disks must be placed with ascending order where a disk of smaller diameter cannot be below a disk of larger diameter
@@ -39,14 +41,15 @@ a) State of the Priority Queue in tree search:
 (BG, 5), (AG, 10), (SC, 15)
 The search will end when the path BG is removed and the final path will be S -> B -> G
 
-b) 
+b) State of the set in graph search:
+(SA, 1), (SB, 5), (SC, 15)
+(SB, 5), (AG, 11), (SC, 15)
+(BC, 10), (AG, 11), (SC, 15)
 
 c) 
 
 d) Uniform-cost search only evaluates the cost to the start vertex when we choose a vertex to expand while djikstras algorithm determines the lowest cost from the root to every node
 
 
-
-
 ### 5. Describe a state space in which iterative deepening search performs much worse than depth-first seach
-When the state space is a large, shallow tree. In this case, the goal state is located close to the root of the tree, and the tree is not very deep. Hence, depth first search will be much quicker in finding the correct node while the IDS will spend a lot of time increasing the depth limit and revisiting the same states over and over again,
+When the state space is a large, shallow tree. In this case, the goal state is located close to the root of the tree, and the tree is not very deep. Hence, depth first search will be much quicker in finding the correct node while the IDS will spend a lot of time increasing the depth limit and revisiting the same states over and over again. Since IDS is a BFS pretending to be a DFS

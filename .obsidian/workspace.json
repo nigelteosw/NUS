@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82e8ab0cd17352bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3e29401283f0dc3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41190a199b94f597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mods/Y2S2/CS2102/Tutorials/Tutorial 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3a325ec07f23e19f",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 1.md",
+                "file": "Mods/Y2S2/CS2102/Tutorials/Tutorial 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 1.md",
+                "file": "Mods/Y2S2/CS2102/Tutorials/Tutorial 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 1.md"
+                "file": "Mods/Y2S2/CS2102/Tutorials/Tutorial 1.md"
               }
             }
           },
@@ -170,8 +169,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e29401283f0dc3e",
+  "active": "41190a199b94f597",
   "lastOpenFiles": [
+    "Mods/Y2S2/CS2109S/Tutorial/Tutorial 1.md",
     "Mods/Y2S2/CS2109S/Lectures/Lecture 3.md",
     "Mods/Y2S2/CS2109S/Lectures/Lecture 2.md",
     "Mods/Y2S2/CS2109S/Lectures/Lecture 1.md",
@@ -180,7 +180,6 @@
     "Mods/Y2S2/UTC2117 Skins/Concepts/Ethnography.md",
     "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 2.md",
     "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 1.md",
-    "Mods/Y2S2/UTC2117 Skins/Concepts/Skin.md",
-    "Mods/Y2S2/UTC2117 Skins/Readings/Benthien Chapter 3.md"
+    "Mods/Y2S2/UTC2117 Skins/Concepts/Skin.md"
   ]
 }
