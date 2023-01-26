@@ -21,8 +21,11 @@ b) The possible candidate keys of R given that {A,C} is definately a superkey is
 c) Only {A, C}
 
 ### Foreign Key
-
+W, Y and Z
 
 ### Equivalent
+None of them are strongly equivalent
 
 ### Algebra
+i) `σ[cname='Homer'](Likes) - σ[cname='Lisa'](Likes)`
+2) ``
