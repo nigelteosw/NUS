@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mods/Y2S2/CS2102/Tutorials/Tutorial 1.md",
+                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mods/Y2S2/CS2102/Tutorials/Tutorial 1.md",
+                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mods/Y2S2/CS2102/Tutorials/Tutorial 1.md",
+                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/Y2S2/CS2102/Tutorials/Tutorial 1.md"
+                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 1.md"
               }
             }
           },
@@ -170,8 +170,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41190a199b94f597",
+  "active": "01fb845ee226f98c",
   "lastOpenFiles": [
+    "Mods/Y2S2/CS2102/Tutorials/Tutorial 1.md",
     "Mods/Y2S2/CS2109S/Tutorial/Tutorial 1.md",
     "Mods/Y2S2/CS2109S/Lectures/Lecture 3.md",
     "Mods/Y2S2/CS2109S/Lectures/Lecture 2.md",
@@ -180,7 +181,6 @@
     "Mods/Y2S2/CS2109S/Searches/Best-first Search.md",
     "Mods/Y2S2/UTC2117 Skins/Concepts/Ethnography.md",
     "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 2.md",
-    "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 1.md",
-    "Mods/Y2S2/UTC2117 Skins/Concepts/Skin.md"
+    "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 1.md"
   ]
 }
