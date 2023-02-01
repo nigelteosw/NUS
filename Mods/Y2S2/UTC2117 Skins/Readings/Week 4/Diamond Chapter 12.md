@@ -7,3 +7,9 @@
 	- that the surface yields internal and external sensations
 	- communication which eventually develops into a semiotics derives from direct skin-to-skin contact
 - The skin performs ‘a primary means of communicating with others, of establishing signifying relations an inscribing surface for the marks left by others’
+- materialistic look at the skin
+	- self and the ego is envelopled with the bodily sense
+- mind and body are one
+- using the word skin: the skin ego is a mental correspondent of skin, skin as an interraction of touch (leakage)
+- Not well written - can be explained in simpler terms
+- 
