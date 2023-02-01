@@ -64,4 +64,12 @@
 ### Self-touch
 - Eliminate internal tensions, stress, uncertainty, sooth the body and provde reassurance/"pacifiers"
 - Stems from childhood sources of touch
-- 
+
+
+### Reflection
+a) Any specific experience of touch that is particularly meaningful/important
+b) How has your relation to touch changed over time
+c) How is your relation to touch changes across circumstances/social contexts?
+d) in touch: f2f vs screen
+
+In my persective, I feel that I have been neglecting what touch means to me. Usually I do not think much about it as I feel that its just a medium for me to communicate with the world through sensing. On further thought, the fact that I can only sleep well when i am hugging something either a bolster or a shark is an indicator of reliance of touch. This could be due to the fact that it provides me with comfort and security during sleepy time. On projection, I feel that I do not react well to touch as I tend to be quite reserved with my touches and try to maintain a personal space, this is due to me being afraid of touching other people consciously or subconsciously and thus I dont react too well when that is done to me. 
