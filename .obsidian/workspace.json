@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3a325ec07f23e19f",
@@ -157,7 +156,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01fb845ee226f98c",
+  "active": "d9115cb588007736",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Mods/Y2S2/CS2102/Tutorials/Tutorial 2.md",
