@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9115cb588007736",
+            "id": "15d5bb3a5863654a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 2.md",
+                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 2.md",
+                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 2.md",
+                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 2.md"
+                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 4.md"
               }
             }
           },
@@ -156,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9115cb588007736",
+  "active": "01fb845ee226f98c",
   "lastOpenFiles": [
+    "CS Knowledge/Algorithms/Searching/Depth-First Search.md",
+    "Mods/Y2S2/CS2109S/Lectures/Lecture 4.md",
+    "CS Knowledge/Algorithms/Searching/Breadth-First Search.md",
+    "CS Knowledge/Untitled.md",
+    "Mods/Y2S2/CS2109S/Tutorial/Tutorial 2.md",
     "Untitled.canvas",
     "Mods/Y2S2/CS2102/Tutorials/Tutorial 2.md",
-    "Mods/Y2S2/CS2109S/Tutorial/Tutorial 2.md",
     "Mods/Y2S2/CS2109S/Tutorial/Tutorial 1.md",
     "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 3.md",
-    "Mods/Y2S2/UTC2117 Skins/Readings/Week 4/Diamond Chapter 12.md",
-    "Mods/Y2S2/UTC2117 Skins/Readings/Week 4/Bishop and Goh.md",
-    "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 2.md",
-    "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 1.md",
-    "Mods/Y2S2/UTC2117 Skins/Readings/Week 2/Jablonski Chapter 8.md"
+    "Mods/Y2S2/UTC2117 Skins/Readings/Week 4/Diamond Chapter 12.md"
   ]
 }
