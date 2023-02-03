@@ -71,4 +71,9 @@
 - Boolean functions, truth table row -> path to leaf
 - Trivially, there is a consistent decision tree for any training set
 	- Prefer to find more compact decision trees
-	
+
+
+#### Correctness
+Correct when prediction result is same tas the answer
+#### Accuracy
+Average correctness
