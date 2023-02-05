@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3a325ec07f23e19f",
@@ -156,7 +157,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01fb845ee226f98c",
+  "active": "15d5bb3a5863654a",
   "lastOpenFiles": [
     "CS Knowledge/Algorithms/Searching/Depth-First Search.md",
     "Mods/Y2S2/CS2109S/Lectures/Lecture 4.md",
