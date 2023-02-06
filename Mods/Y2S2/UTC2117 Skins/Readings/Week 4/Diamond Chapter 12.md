@@ -12,4 +12,3 @@
 - mind and body are one
 - using the word skin: the skin ego is a mental correspondent of skin, skin as an interraction of touch (leakage)
 - Not well written - can be explained in simpler terms
-- 
