@@ -44,6 +44,22 @@ Ritualization creates distance not only from institutions by rejecting the inst
 - The body as a battlefield of one's identity (Le Breton)
 
 #### Why skin-cutting?
-- 
+- Being inarticulate 
+- Externalising the abuse
+	- Relieve everything
+- Managing stress and comparisons
+- Didnt want others to be in trouble but they wanted some attention
+- Coping with loss
+- Attention
+	- Uncovering if people would care
+- Neurotic?
+
+#### Why Stop?
+- Other forms of de-stressing
+- Family therapy
+- Dont look at extent of injury, but they reason behind cutting
+- Conscious choice not to cut
+
+
 
 

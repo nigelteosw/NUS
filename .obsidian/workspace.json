@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e50a63385f3bed3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "67d7e898ead4fc6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "632c4b86ea93853e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Readings/Week 4/Diamond Chapter 12.md",
+                "file": "CS Knowledge/Algorithms/Searching/Breadth-First Search.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 4.md",
+                "file": "CS Knowledge/Algorithms/Searching/Breadth-First Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 4.md",
+                "file": "CS Knowledge/Algorithms/Searching/Breadth-First Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 4.md"
+                "file": "CS Knowledge/Algorithms/Searching/Breadth-First Search.md"
               }
             }
           },
@@ -181,16 +156,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67d7e898ead4fc6d",
+  "active": "01fb845ee226f98c",
   "lastOpenFiles": [
-    "Mods/Y2S2/UTC2117 Skins/Readings/Week 4/Diamond Chapter 12.md",
+    "CS Knowledge/Algorithms/Searching/Depth-First Search.md",
+    "CS Knowledge/Algorithms/Searching/Breadth-First Search.md",
     "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 4.md",
+    "Mods/Y2S2/UTC2117 Skins/Readings/Week 4/Diamond Chapter 12.md",
     "Mods/Y2S2/UTC2117 Skins/Readings/Week 5/Le Breton.md",
     "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 3.md",
     "Mods/Y2S2/CS2109S/Lectures/Lecture 4.md",
     "Mods/Y2S2/UTC2117 Skins/Readings/Week 4/Bishop and Goh.md",
-    "CS Knowledge/Algorithms/Searching/Depth-First Search.md",
-    "CS Knowledge/Algorithms/Searching/Breadth-First Search.md",
     "CS Knowledge/Untitled.md",
     "Mods/Y2S2/CS2109S/Tutorial/Tutorial 2.md"
   ]
