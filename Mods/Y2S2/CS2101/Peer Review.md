@@ -21,5 +21,4 @@
 - Maybe provide some tips and tricks that are more personal, like personal experience, going beyond the content that people expect
 
 
-#### 5
-
+#### 
