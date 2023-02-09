@@ -21,6 +21,6 @@ a)
 
 b) nested list to show the grid
 
-c) Goal state is unknown and local search may not stop at the defined goal state
+c) Goal state is unknown and local search may not stop at the defined goal state. We are not interested in obtaining the solution path, but rather just reach the goal state.
 
-d) 
+d)  
