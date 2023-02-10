@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc758fa0ceee569e",
+            "id": "cebf36385d733eca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 3.md",
+                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 3.md",
+                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 3.md",
+                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Tutorial/Tutorial 3.md"
+                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 5.md"
               }
             }
           },
@@ -159,6 +159,8 @@
   },
   "active": "01fb845ee226f98c",
   "lastOpenFiles": [
+    "Mods/Y2S2/CS2109S/Lectures/Lecture 5.md",
+    "Mods/Y2S2/CS2109S/Tutorial/Tutorial 3.md",
     "Mods/Y2S2/CS2101/Peer Review.md",
     "CS Knowledge/Algorithms/Searching/Breadth-First Search.md",
     "CS Knowledge/Algorithms/Searching/Depth-First Search.md",
@@ -166,8 +168,6 @@
     "Mods/Y2S2/UTC2117 Skins/Readings/Week 4/Diamond Chapter 12.md",
     "Mods/Y2S2/UTC2117 Skins/Readings/Week 5/Le Breton.md",
     "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 3.md",
-    "Mods/Y2S2/CS2109S/Lectures/Lecture 4.md",
-    "Mods/Y2S2/UTC2117 Skins/Readings/Week 4/Bishop and Goh.md",
-    "CS Knowledge/Untitled.md"
+    "Mods/Y2S2/CS2109S/Lectures/Lecture 4.md"
   ]
 }
