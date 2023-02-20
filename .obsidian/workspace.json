@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 1.md",
+                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 1.md",
+                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 1.md",
+                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 1.md"
+                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 2.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "ac5b167c5a5f1c1f",
   "lastOpenFiles": [
+    "Mods/Y2S2/CS2102/Lectures/Lecture 1.md",
     "Mods/Y2S2/CS2102/Lectures/Lecture 2.md",
     "Mods/Y2S2/CS2109S/Lectures/Lecture 6.md",
     "Mods/Y2S2/CS2109S/Lectures/Lecture 5.md",
@@ -179,7 +180,6 @@
     "Mods/Y2S1/FSC2101/Lecture/Lecture 5.md",
     "Mods/Y2S2/CS2109S/Tutorial/Tutorial 3.md",
     "Mods/Y2S1/FSC2101/Lecture/Lecture 4.md",
-    "Mods/Y2S1/FSC2101/Lecture/Lecture 6.md",
-    "Mods/Y2S1/FSC2101/Lecture/Lecture 3.md"
+    "Mods/Y2S1/FSC2101/Lecture/Lecture 6.md"
   ]
 }
