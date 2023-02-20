@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 6.md",
+                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac5b167c5a5f1c1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 6.md",
+                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 6.md",
+                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 6.md"
+                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 1.md"
               }
             }
           },
@@ -156,17 +169,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fd8b89020bddd47",
+  "active": "ac5b167c5a5f1c1f",
   "lastOpenFiles": [
-    "Mods/Y2S2/CS2109S/Lectures/Lecture 5.md",
+    "Mods/Y2S2/CS2102/Lectures/Lecture 2.md",
     "Mods/Y2S2/CS2109S/Lectures/Lecture 6.md",
+    "Mods/Y2S2/CS2109S/Lectures/Lecture 5.md",
     "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 5.md",
     "Mods/Y2S2/CS2109S/Tutorial/Tutorial 4.md",
     "Mods/Y2S1/FSC2101/Lecture/Lecture 5.md",
     "Mods/Y2S2/CS2109S/Tutorial/Tutorial 3.md",
     "Mods/Y2S1/FSC2101/Lecture/Lecture 4.md",
     "Mods/Y2S1/FSC2101/Lecture/Lecture 6.md",
-    "Mods/Y2S1/FSC2101/Lecture/Lecture 3.md",
-    "Mods/Y2S1/FSC2101/Lecture/Lecture 2.md"
+    "Mods/Y2S1/FSC2101/Lecture/Lecture 3.md"
   ]
 }
