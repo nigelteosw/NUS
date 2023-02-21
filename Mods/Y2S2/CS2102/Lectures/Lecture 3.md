@@ -371,3 +371,9 @@ ALTER TABLE Projects ALTER COLUMN name DROP DEFAULT;
 
 
 
+## Deferable Constraints
+An SQL **statement** is any SQL code that ends with a **_semi-colon_** (i.e., `;`)
+
+-   Constraints are checked **immediately** at the end of SQL statement
+    - This is true even for transaction containing multiple SQL statement A violation will cause the statement/transaction to be **rolled back**
+
