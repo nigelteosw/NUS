@@ -362,6 +362,12 @@ CREATE TABLE Projects (
 ALTER TABLE <table_name>
 	[ALTER / ADD / DROP] [COLUMN / CONSTRAINT] <name>
 	<changes>;
+
+--example
+ALTER TABLE Projects ALTER COLUMN name TYPE VARCHAR(200);
+ALTER TABLE Projects ALTER COLUMN start_year SET DEFAULT 2021;
+ALTER TABLE Projects ALTER COLUMN name DROP DEFAULT;
 ```
+
 
 
