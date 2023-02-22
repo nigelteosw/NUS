@@ -28,5 +28,9 @@ iv) equivalent
 
 ### Algebra
 i) `σ[cname='Moe'](Likes) - σ[cname='Lisa'](Likes)`
-ii)  ``
-iii) ``
+ii)  `π[cname, rname](Restaurants ⋈ Sells ⋈ Likes ⋈ Customers)`
+iii) 
+```
+Q1 = π[cname](Customers)× Pizzas
+Qans = Q1 - Likes
+```

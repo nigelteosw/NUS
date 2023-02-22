@@ -39,3 +39,16 @@ An **entity** is a _representation_ of real-world objects that are _disting
 - Each user can make **0 or more** bookings and each booking can be made by **exactly 1** user.
 
 ![[Pasted image 20230221215351.png]]
+
+
+# ER to Schema
+## Three Main Constraints
+1.  Are the key attributes uniquely identifying the rest of the attributes?
+    - Should not uniquely identifying additional attributes not part of the entity set unless bound constraints enforces it.
+2.  Are the lower bound constraints satisfied
+    - Can you have 0 participation?
+    - Must you have 1 participation?
+3.  Are the upper bound constraints satisfied
+    - Can you have ∞ participation?
+    - Must you have 1 participation?
+
