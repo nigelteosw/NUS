@@ -65,6 +65,9 @@ SELECT DISTINCT C.cname
 FROM   Customers C LEFT JOIN Likes L
     ON C.cname = L.cname
 WHERE  L.pizza IS NULL; -- keep only dangling tuples
-
 ```
+
+
+## Summary
+![[Pasted image 20230222222205.png]]
 
