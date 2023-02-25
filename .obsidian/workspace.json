@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3709af5a78fd88b1",
+        "id": "5cb8b85978e2f13c",
         "type": "tabs",
         "children": [
           {
-            "id": "0483d18e0d618f0d",
+            "id": "cf7b941824d7343c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mods/Y2S2/CS2102/Tutorials/Tutorial 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "366fc9fefda0fc5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 5.md",
+                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3a325ec07f23e19f",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 5.md",
+                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 5.md",
+                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 5.md"
+                "file": "Mods/Y2S2/CS2109S/Lectures/Lecture 6.md"
               }
             }
           },
@@ -170,17 +156,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "366fc9fefda0fc5a",
+  "active": "cf7b941824d7343c",
   "lastOpenFiles": [
+    "Mods/Y2S2/CS2109S/Lectures/Lecture 1.md",
+    "Mods/Y2S2/CS2109S/Lectures/Lecture 2.md",
+    "Mods/Y2S2/CS2109S/Lectures/Lecture 5.md",
+    "Mods/Y2S2/CS2109S/Lectures/Lecture 6.md",
+    "Mods/Y2S2/CS2102/Tutorials/Tutorial 3.md",
+    "Mods/Y2S2/CS2102/Lectures/Lecture 5.md",
     "Mods/Y2S2/CS2102/Lectures/Lecture 3.md",
     "Mods/Y2S2/CS2102/Lectures/Lecture 4.md",
-    "Mods/Y2S2/CS2102/Lectures/Lecture 5.md",
-    "Mods/Y2S2/CS2102/Tutorials/Tutorial 3.md",
     "Mods/Y2S2/CS2102/Tutorials/Tutorial 2.md",
     "Mods/Y2S2/CS2102/Tutorials/Tutorial 1.md",
     "Mods/Y2S2/CS2102/Lectures/Lecture 1.md",
-    "Mods/Y2S2/CS2102/Lectures/Lecture 2.md",
-    "Mods/Y2S2/CS2109S/Lectures/Lecture 6.md",
-    "Mods/Y2S2/CS2109S/Lectures/Lecture 5.md"
+    "Mods/Y2S2/CS2102/Lectures/Lecture 2.md"
   ]
 }
