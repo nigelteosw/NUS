@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5cb8b85978e2f13c",
+        "id": "498198434b4e3b2a",
         "type": "tabs",
         "children": [
           {
-            "id": "f1fa4f3df75e1e6a",
+            "id": "6bfa0dc95a45377b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 6.md",
+                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3a325ec07f23e19f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 6.md",
+                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 6.md",
+                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 6.md"
+                "file": "Mods/Y2S2/CS2102/Lectures/Lecture 2.md"
               }
             }
           },
@@ -157,10 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1fa4f3df75e1e6a",
+  "active": "6bfa0dc95a45377b",
   "lastOpenFiles": [
-    "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 5.md",
     "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 6.md",
+    "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 5.md",
     "Mods/Y2S2/CS2102/Lectures/Lecture 5.md",
     "Mods/Y2S2/CS2102/Lectures/Lecture 4.md",
     "Mods/Y2S2/CS2102/Lectures/Lecture 3.md",
