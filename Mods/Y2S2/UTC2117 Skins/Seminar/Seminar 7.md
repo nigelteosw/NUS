@@ -10,4 +10,14 @@
 - Can colorism exist without racism? Can racism exist without colorism?
 	- Racism refers to discrimination and prejudice based on a person's race or ethnicity. It can manifest in many forms, including systemic racism, which involves policies and practices that disadvantage certain racial or ethnic groups, and individual acts of discrimination, such as name-calling, racial slurs, or physical violence.
 	- Colorism, on the other hand, refers specifically to discrimination and prejudice based on skin color, usually within a particular racial or ethnic group. It is a form of discrimination that assigns more value or preference to individuals with lighter skin tones and devalues those with darker skin tones.
-- 
+
+
+### Fanon 
+- Always associated to slavery, black magic, rituals, humanity at its lowest
+- Defined by skin color; blackness is relational
+
+
+### Have you ever been victim of colorism?
+
+
+### Have you have witnessed or contributed to an incident of colorism?
