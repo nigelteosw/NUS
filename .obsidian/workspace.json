@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "498198434b4e3b2a",
+        "id": "e1688fce4c3a7bc3",
         "type": "tabs",
         "children": [
           {
-            "id": "6bfa0dc95a45377b",
+            "id": "4e3c1eadbe54ed40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e587247785f2a97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 6.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3a325ec07f23e19f",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 7.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,10 +148,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6bfa0dc95a45377b",
+  "active": "4e3c1eadbe54ed40",
   "lastOpenFiles": [
-    "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 6.md",
     "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 7.md",
+    "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 6.md",
     "Mods/Y2S2/CS2102/Lectures/Lecture 2.md",
     "Mods/Y2S2/UTC2117 Skins/Seminar/Seminar 5.md",
     "Mods/Y2S2/CS2102/Lectures/Lecture 5.md",
