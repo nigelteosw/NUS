@@ -33,7 +33,37 @@ How do u look after your feet.
 
 ### Why is it socially unacceptable to send pictures of feet?
 If I were to send a picture of my hand would it be very different.
+Commodity
 Fetishism of feet
+Body heirachy
+Pointing feet at people or touch feet
+Class thing to look good (for women)
+
+Why disgusted with feet?
+Why others fetishize feet?
+
+Foot massage?
+more common to get feet touched
+
+Send out a questionaire.
+Comparing feet and hands.
+
+Showcase the diversity of which people connect to their feet
+
+In the interest of time, have guiding questions and format.
+Get informal responses
+
+Callouses and pride (for jeric)
+identity as a climber 
+
+**Going barefoot**
+inside home shoes
+Suites in tembu
+Ancestors used to be barefoot as well
+loss touching things with feet
+
+
+Another section for fetisation
 
 ![[Pasted image 20230313153656.png]]
 ![[Pasted image 20230313153710.png]]
